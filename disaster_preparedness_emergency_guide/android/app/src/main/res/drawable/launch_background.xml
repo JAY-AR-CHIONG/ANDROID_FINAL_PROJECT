@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list>
+    <item android:drawable="@android:color/white" />
+    <!-- Optional: add your image -->
+    <item>
+        <bitmap
+            android:gravity="center"
+            android:src="@drawable/logo.png" />
+    </item>
+</layer-list>
